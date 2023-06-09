@@ -1,2 +1,2 @@
 #!/bin/bash
-la -t1 | tail -n 2
+ls -t1 | tail -n 2
